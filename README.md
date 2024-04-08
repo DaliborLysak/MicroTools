@@ -1,7 +1,7 @@
 # MicroTools
 Micro tools to ease my work
 
-##SqlCsvSpaceFormater 
+## SqlCsvSpaceFormater
 Formats cvs files
 
 **From**
