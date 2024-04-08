@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlCsvSpaceFormater": {
+      "commandName": "Project",
+      "commandLineArgs": "testdata\\sql-developer-csv-data.csv"
+    }
+  }
+}

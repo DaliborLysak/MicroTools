@@ -1,2 +1,20 @@
 # MicroTools
 Micro tools to ease my work
+
+##
+SqlCsvSpaceFormater - formats cvs files
+
+**From**
+
+"COLUMN 1";"COLUMN 2";"COLUMN 3"
+"ROW 1 COLUMN 1 VERY VERY LONG";"ROW 1 COLUMN 2";"ROW 1 COLUMN 3"
+"ROW 2 COLUMN 1";"ROW 2 COLUMN 2 VERY LONG";"ROW 2 COLUMN 3"
+"ROW 3 COLUMN 1";"ROW 3 COLUMN 2";"ROW 3 COLUMN 3 LONG"
+
+**To**
+
+COLUMN 1                       COLUMN 2                  COLUMN 3             
+ROW 1 COLUMN 1 VERY VERY LONG  ROW 1 COLUMN 2            ROW 1 COLUMN 3       
+ROW 2 COLUMN 1                 ROW 2 COLUMN 2 VERY LONG  ROW 2 COLUMN 3       
+ROW 3 COLUMN 1                 ROW 3 COLUMN 2            ROW 3 COLUMN 3 LONG  
+
